@@ -88,9 +88,9 @@
 
 <h1><a id="download"></a>Download</h1>
 
-<a href="https://github.com/fanomdev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="FANOM on GitHub" height="55"/></a>
+<a href="https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1.apk" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="Download Luminous for Android" height="55"/></a>
 
-Builds and source are published by FANOM on [GitHub](https://github.com/fanomdev). Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
+Download the [universal APK](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1.apk) or a smaller per-ABI build on the [Releases page](https://github.com/fanomdev/luminous/releases/latest). Source is published by FANOM on [GitHub](https://github.com/fanomdev). Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
 
 
 </div>
