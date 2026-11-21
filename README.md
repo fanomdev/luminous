@@ -140,6 +140,20 @@ Luminous is an independent, community-driven third-party audio player and client
 
 ---
 
+## Downloads (APKs)
+
+Prebuilt **debug** builds are in `apks/` (stored with Git LFS — they exceed GitHub's 100 MB direct-file limit):
+
+| Folder | Variants | Use |
+| --- | --- | --- |
+| `apks/phone/` | arm64-v8a, armeabi-v7a, x86_64, universal | Android phone/tablet — install your ABI, or universal for any |
+| `apks/tv/` | arm64-v8a, armeabi-v7a, x86_64, universal | Android TV |
+| `apks/wear/` | LuminousWear-prod-debug.apk | Wear OS |
+
+Sideloading requires enabling "Install unknown apps" for the app you open them with. These are debug builds, not store-signed releases.
+
+---
+
 <div align="center">
 
 <h1><a id="license"></a>License</h1>
