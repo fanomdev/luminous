@@ -142,10 +142,19 @@ Luminous is an independent, community-driven third-party audio player and client
 
 ## Downloads (APKs)
 
-Prebuilt **debug** builds are in `apks/` (stored with Git LFS — they exceed GitHub's 100 MB direct-file limit):
+Download the real APKs from the [v1.9.1 release](https://github.com/fanomdev/luminous/releases/latest) - these are direct downloads, not Git LFS pointer files:
 
-| Folder | Variants | Use |
-| --- | --- | --- |
+| APK | Device |
+| --- | --- |
+| [Luminous-v1.9.1.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1.apk) | Phone/tablet, all CPUs (universal, ~238 MB) |
+| [Luminous-v1.9.1_arm64-v8a.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1_arm64-v8a.apk) | Phone/tablet, ARM64 (~137 MB) |
+| [Luminous-v1.9.1_armeabi-v7a.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1_armeabi-v7a.apk) | Phone/tablet, 32-bit ARM (~127 MB) |
+| [Luminous-v1.9.1_x86_64.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1_x86_64.apk) | Phone/tablet, x86_64 (~143 MB) |
+| [LuminousTV-v1.9.1.apk](https://github.com/fanomdev/luminous/releases/latest/download/LuminousTV-v1.9.1.apk) | Android TV |
+| [LuminousWear-v1.9.1.apk](https://github.com/fanomdev/luminous/releases/latest/download/LuminousWear-v1.9.1.apk) | Wear OS |
+
+If a downloaded file is only a few hundred bytes, it is a Git LFS pointer, not an APK - download from the links above instead. Sideloading requires enabling "Install unknown apps" for the app you open it with. These are debug builds, not store-signed releases.
+--- | --- | --- |
 | `apks/phone/` | arm64-v8a, armeabi-v7a, x86_64, universal | Android phone/tablet — install your ABI, or universal for any |
 | `apks/tv/` | arm64-v8a, armeabi-v7a, x86_64, universal | Android TV |
 | `apks/wear/` | LuminousWear-prod-debug.apk | Wear OS |
