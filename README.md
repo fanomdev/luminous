@@ -88,9 +88,9 @@
 
 <h1><a id="download"></a>Download</h1>
 
-<a href="https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1.apk" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="Download Luminous for Android" height="55"/></a>
+<a href="https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.2.apk" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="Download Luminous for Android" height="55"/></a>
 
-Download the [universal APK](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1.apk) or a smaller per-ABI build on the [Releases page](https://github.com/fanomdev/luminous/releases/latest). Source is published by FANOM on [GitHub](https://github.com/fanomdev). Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
+Download the [universal APK](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.2.apk) or a smaller per-ABI build on the [Releases page](https://github.com/fanomdev/luminous/releases/latest). Source is published by FANOM on [GitHub](https://github.com/fanomdev). Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
 
 
 </div>
@@ -142,14 +142,14 @@ Luminous is an independent, community-driven third-party audio player and client
 
 ## Downloads (APKs)
 
-Download the real APKs from the [v1.9.1 release](https://github.com/fanomdev/luminous/releases/latest) - these are direct downloads, not Git LFS pointer files:
+Download the real APKs from the [v1.9.2 release](https://github.com/fanomdev/luminous/releases/latest) - these are direct downloads, not Git LFS pointer files:
 
 | APK | Device |
 | --- | --- |
-| [Luminous-v1.9.1.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1.apk) | Phone/tablet, all CPUs (universal, ~238 MB) |
-| [Luminous-v1.9.1_arm64-v8a.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1_arm64-v8a.apk) | Phone/tablet, ARM64 (~137 MB) |
-| [Luminous-v1.9.1_armeabi-v7a.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1_armeabi-v7a.apk) | Phone/tablet, 32-bit ARM (~127 MB) |
-| [Luminous-v1.9.1_x86_64.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.1_x86_64.apk) | Phone/tablet, x86_64 (~143 MB) |
+| [Luminous-v1.9.2.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.2.apk) | Phone/tablet, all CPUs (universal, ~238 MB) |
+| [Luminous-v1.9.2_arm64-v8a.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.2_arm64-v8a.apk) | Phone/tablet, ARM64 (~137 MB) |
+| [Luminous-v1.9.2_armeabi-v7a.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.2_armeabi-v7a.apk) | Phone/tablet, 32-bit ARM (~127 MB) |
+| [Luminous-v1.9.2_x86_64.apk](https://github.com/fanomdev/luminous/releases/latest/download/Luminous-v1.9.2_x86_64.apk) | Phone/tablet, x86_64 (~143 MB) |
 | [LuminousTV-v1.9.1.apk](https://github.com/fanomdev/luminous/releases/latest/download/LuminousTV-v1.9.1.apk) | Android TV |
 | [LuminousWear-v1.9.1.apk](https://github.com/fanomdev/luminous/releases/latest/download/LuminousWear-v1.9.1.apk) | Wear OS |
 
