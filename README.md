@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img src="Logo.png" alt="Luminous app icon" width="200" />
+<video src="latitude.mp4" width="200" autoplay loop muted playsinline alt="Animated Luminous metallic latitude mark"></video>
 
 # Luminous
 
