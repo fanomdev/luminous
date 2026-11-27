@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img src="Logo.png" alt="Luminous metallic latitude mark" width="200" />
+<img src="latitude.svg" alt="Luminous latitude vector logo" width="200" />
 
 # Luminous
 
