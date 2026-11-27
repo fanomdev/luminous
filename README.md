@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<video src="latitude.mp4" width="200" autoplay loop muted playsinline alt="Animated Luminous metallic latitude mark"></video>
+<img src="Logo.png" alt="Luminous metallic latitude mark" width="200" />
 
 # Luminous
 
